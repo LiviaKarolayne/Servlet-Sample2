@@ -1,2 +1,2 @@
-# servlet_2
-Este repositório recebe informações de um formulário via post e exibe-as na tela
+# Servlet Sample 2
+This repository receives information from a form via post and displays it on the screen
